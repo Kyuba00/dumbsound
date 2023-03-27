@@ -1,0 +1,120 @@
+  
+body{
+    background-color: #161616;
+}
+.rhap_container{
+    color: #EE4622;
+}
+.rhap_container icon{
+    color: #EE4622;
+}
+.rhap_time{
+    color: #868686 !important;
+}
+/* .rhap_volume-indicator, .rhap_volume-bar {
+    background: #EE4622 !important;
+} */
+.rhap_progress-indicator, .rhap_progress-filled  {
+    background: #EE4622 !important;
+}
+.bg-header{
+    background-image:
+    url('../../public/img/bg-header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.btn-orange-pay{
+    background: #F58033  ;
+    border: none;
+    padding: 6px 35px;
+    margin-top: 12px;
+}
+.btn-orange-pay:hover{
+    background: #EE4622 ;
+}
+.btn-orange-pay:active{
+    background: #EE4622 !important;
+}
+.btn-orange-toggle{
+    background: #EE4622  ;
+    border: none;
+    padding: 5px 15px;
+}
+.btn-orange{
+    background: #EE4622  ;
+    border: none;
+    padding: 8px 35px;
+}
+.btn-orange:hover{
+    background: #EE4622 ;
+}
+.btn-orange:active{
+    background: #EE4622 !important;
+}
+/* Navbar */
+.btn-outline{
+    background: none;
+    border: 1px solid #fff;
+    margin-right: 10px;
+    padding: 7px 35px;
+}
+.btn-outline:hover{
+    background: #fff ;
+    color: #000;
+}
+.btn-outline:active{
+    background:  #EE4622 !important;
+    color: #000;
+}
+.font-title{
+    font-size: 48px;
+    line-height: 35px;
+    margin-bottom: 50px;
+    color: #fff;
+    font-family: 'Product Sans Thin';
+}
+.header-text{
+    padding: 150px 25px;
+}
+.modal-login{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.customFile {
+    color: #fff;
+    height: 38px;
+    border-radius: 5px;
+    /* background-color: none; */
+    border: 1px solid #fff;
+    cursor: pointer;
+  }
+.customFilePay {
+    color: #fff;
+    width: 300px;
+    height: 38px;
+    border-radius: 5px;
+    /* background-color: none; */
+    border: 1px solid #fff;
+    cursor: pointer;
+  }
+.customFileAudio {
+    color: #fff;
+    height: 38px;
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: none;
+    border: 1px solid #fff;
+    cursor: pointer;
+  }
+  .dropdown-toggle::after{
+    display: none;
+  }
+  .dropdown-item:hover{
+    background-color: #3A3A3A;
+  }
+
+  
+  
